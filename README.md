@@ -1,5 +1,8 @@
 # Introduction
 
+THis fork is modifed to use hooks instead of components.
+
+
 This is a Starter React application for using the Sample app in the AWS AppSync console when building your GraphQL API. The Sample app creates a GraphQL schema and provisions Amazon DynamoDB resources, then connects them appropriately with Resolvers. The application demonstrates GraphQL Mutations, Queries and Subscriptions using AWS AppSync. You can use this for learning purposes or adapt either the application or the GraphQL Schema to meet your needs.
 
 ![EventDetails](media/AllEvents.png)
